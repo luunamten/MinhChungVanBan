@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebContent/footer.jsp=UTF-8
+encoding//WebContent/index.jsp=UTF-8
+encoding//src/controller/BoTieuChuanServlet.java=UTF-8
+encoding//src/controller/LoginServlet.java=UTF-8
+encoding//src/controller/MinhChungServlet.java=UTF-8
+encoding//src/controller/NoiBanHanhServlet.java=UTF-8
+encoding//src/controller/TaiKhoanServlet.java=UTF-8
+encoding//src/controller/TapTinServlet.java=UTF-8
+encoding//src/controller/ThongBaoServlet.java=UTF-8
+encoding//src/controller/TieuChiServlet.java=UTF-8
+encoding//src/controller/TieuChuanServlet.java=UTF-8

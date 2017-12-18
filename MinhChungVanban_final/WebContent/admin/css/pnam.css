@@ -1,0 +1,5 @@
+.box-sd {
+	box-shadow: 0 0 5px #d9d9d9;
+	-webkit-box-shadow: 0 0 5px #d9d9d9;
+	-moz-box-shadow: 0 0 5px #d9d9d9;
+}
